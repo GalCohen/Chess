@@ -14,7 +14,7 @@ java Chess
 
 Each Player enters the location on the board where they would like their piece to go, and hits the enter key to move on to the next turn.
 
-![Chess start game](https://github.com/GalCohen/Chess/chess_start.jpg)
+![Chess start game](https://github.com/GalCohen/Chess/blob/master/chess_start.jpg)
 
 
-![Chess play game](https://github.com/GalCohen/Chess/chess_play.jpg)
+![Chess play game](https://github.com/GalCohen/Chess/blob/master/chess_play.jpg)
